@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: ['javascript-misc.component.css']
 })
 export class JavascriptMiscAppComponent {
-  title = 'javascript-misc works!';
+  title = 'javascript works!';
 }
